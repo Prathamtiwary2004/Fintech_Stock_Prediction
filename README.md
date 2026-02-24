@@ -40,6 +40,7 @@ Price Data (30 days OHLCV)          News Headline (tokens)
 - **Colab ready** — GPU training notebook included
 
 ## 📁 Project Structure
+```
 fintech-stock-predictor/
 │
 ├── src/
