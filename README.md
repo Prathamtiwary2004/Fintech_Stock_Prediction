@@ -3,6 +3,7 @@
 > **Dual-branch LSTM that fuses stock price sequences + news sentiment to predict next-day price direction.**
 > Built with PyTorch · Streamlit · Yahoo Finance API
 ## Architecture
+```
 Price Data (30 days OHLCV)          News Headline (tokens)
          │                                    │
     ┌────▼────┐                         ┌─────▼────┐
